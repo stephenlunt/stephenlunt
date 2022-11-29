@@ -4,7 +4,7 @@ Check out some of my projects:
 * 🔤 [Scrabble Word Checker and Game Tracker](https://www.scrabble-checker.app/)
 * 👨‍💻 [My Portfolio Website](https://www.stephen-lunt.dev/)
 * 🔑 [Password Checker & Generator](https://www.stephen-lunt.dev/projects/cli-password-checker)
-* 🍹 [Cocktail Reciepe Website](https://www.stephen-lunt.dev/projects/cocktail-club)
+* 🍹 [Cocktail Recipe Website](https://www.stephen-lunt.dev/projects/cocktail-club)
 
 ---
 
