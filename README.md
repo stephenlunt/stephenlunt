@@ -1,4 +1,4 @@
-Hi, I'm Stephen 👋 I'm an aspiring Software Engineer currently pursuing my master's degree in Computer Science.
+Hi, I'm Stephen, a full stack Software Engineer 👋 
 
 Check out some of my projects:
 * 🔤 [Scrabble Word Checker and Game Tracker](https://www.scrabble-checker.app/)
