@@ -1,10 +1,11 @@
 Hi, I'm Stephen, a full stack Software Engineer 👋 
 
 Check out some of my projects:
-* 🔤 [Scrabble Word Checker and Game Tracker](https://www.scrabble-checker.app/)
 * 👨‍💻 [My Portfolio Website](https://www.stephen-lunt.dev/)
+* 🔤 [Scrabble Word Checker](https://www.scrabble-checker.app/)
 * 🔑 [Password Checker & Generator](https://www.stephen-lunt.dev/projects/cli-password-checker)
 * 🍹 [Cocktail Recipe Website](https://www.stephen-lunt.dev/projects/cocktail-club)
+* 🔟 [Binary Number Game](https://www.stephen-lunt.dev/projects/binary-blitz)
 
 ---
 
