@@ -1,11 +1,11 @@
-Hi, I'm Stephen, a full stack Software Engineer 👋 
+Hi, I'm Stephen, a full-stack Software Engineer 👋 
 
 Check out some of my projects:
-* 👨‍💻 [My Portfolio Website](https://www.stephen-lunt.dev/)
-* 🔤 [Scrabble Word Checker](https://scrabblechecker.com/)
-* 🔑 [Password Checker & Generator](https://www.stephen-lunt.dev/projects/cli-password-checker)
-* 🍹 [Cocktail Recipe Website](https://www.stephen-lunt.dev/projects/cocktail-club)
-* 🔟 [Binary Number Game](https://www.stephen-lunt.dev/projects/binary-blitz)
+* 🔤 [Scrabble Word Checker](https://scrabblechecker.com) - scrabblechecker.com is a dictionary word checker and word finder to help Scrabble players find new words.
+* 👨‍💻 [My Portfolio Website](https://www.stephen-lunt.dev) - my Next.js personal portfolio.
+* 🔑 [Password Checker & Generator](https://www.stephen-lunt.dev/projects/cli-password-checker) - a command line password strength checker and generator.
+* 🍹 [Cocktail Recipe Website](https://www.stephen-lunt.dev/projects/cocktail-club) - a cocktail recipe website made with the Flask framework.
+* 🔟 [Binary Number Game](https://www.stephen-lunt.dev/projects/binary-blitz) - a fun game made with React JS to convert numbers from decimal to binary.
 
 ---
 
