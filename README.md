@@ -1,15 +1,11 @@
-Hi, I'm Stephen, a full-stack Software Engineer 👋 
+Hi, I'm Stephen 👋 Welcome to my GitHub profile.
 
-Check out some of my projects:
-* 🔤 [Scrabble Word Checker](https://scrabblechecker.com) - scrabblechecker.com is a dictionary word checker and word finder to help Scrabble players find new words.
-* 👨‍💻 [My Portfolio Website](https://www.stephen-lunt.dev) - my Next.js personal portfolio.
-* 🔑 [Password Checker & Generator](https://www.stephen-lunt.dev/projects/cli-password-checker) - a command line password strength checker and generator.
-* 🍹 [Cocktail Recipe Website](https://www.stephen-lunt.dev/projects/cocktail-club) - a cocktail recipe website made with the Flask framework.
-* 🔟 [Binary Number Game](https://www.stephen-lunt.dev/projects/binary-blitz) - a fun game made with React JS to convert numbers from decimal to binary.
+Why not check out my [portfolio website & blog](https://stephen-lunt.dev) while your here?
 
 ---
 
 ### Languages & Tools I've worked with
+
 **Programming Languages**
 
 <div style="display: inline-flex;">
@@ -42,18 +38,3 @@ Check out some of my projects:
     <img title="PostgresSQL" alt="Postgres" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
     <img title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
-
-<!--
-**stephenlunt/stephenlunt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
